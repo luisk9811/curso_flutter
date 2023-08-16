@@ -1,13 +1,13 @@
 name: hello_dart_app
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/luisk9811/curso_flutter
 
 environment:
   sdk: ^3.0.6
 
 # Add regular dependencies here.
-dependencies:
+#dependencies:
   # path: ^1.8.0
 
 dev_dependencies:
